@@ -2,7 +2,7 @@
 Portfolio website
 
 ### **Project1: AI Models for Legal Text Processing**
-uSED state-of-the-art transformer models fine-tuned on legal text data. We focus on key tasks such as text classification, text generation, and text summarization using BERT, GPT-2, and PEGASUS. Designed streamlit website where user can upload legal documents and summarize text.
+Used state-of-the-art transformer models fine-tuned on legal text data. We focus on key tasks such as text classification, text generation, and text summarization using BERT, GPT-2, and PEGASUS. Designed streamlit website where user can upload legal documents and summarize text.
 
 #### **Our Transformer Models Include:**
 
