@@ -1,4 +1,4 @@
-# Akhil_Portfolio
+# Akhil Bharadwaj Mateti
 Portfolio website
 
 ### **[Project 1: AI Models for Legal Text Processing](https://github.com/akhil97/Final-Project-Group3)**
