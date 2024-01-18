@@ -28,6 +28,7 @@ Portfolio website
 
 ### **[Project 6: Bank churn prediction](https://github.com/akhil97/Data_Science_project-T4-DATS6101)**
 - Performed statistical tests to figure out important attributes affecting customer churn, applied SMOTE technique to handle imbalanced data and implemented logistic regression model achieving an AUC of 74.5%.
+  ![](https://github.com/akhil97/Akhil_Portfolio/blob/main/images/confusion_matrix.png)
 
 
 
