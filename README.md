@@ -26,7 +26,7 @@
 - Improved AUC score to 72% from 54% after balancing data using SMOTE and furnished insights on factors affecting heart disease with the help of EDA, correlation matrix, VIF values and implemented logistic regression.
 
 ### **[Project 6: Bank churn prediction](https://github.com/akhil97/Data_Science_project-T4-DATS6101)**
-- Performed statistical tests to figure out important attributes affecting customer churn, applied SMOTE technique to handle imbalanced data and implemented logistic regression model achieving an AUC of 74.5%.
+- Performed statistical tests to figure out important attributes affecting customer churn, applied SMOTE technique to handle imbalanced data and implemented logistic regression model achieving an AUC of 74.1%.
   ![](/images/confusion_matrix.png)
 
 
