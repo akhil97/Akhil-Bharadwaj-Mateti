@@ -5,11 +5,13 @@
  - Designed streamlit app where user can upload legal documents and summarize text.
  - Fine-tuned PEGASUS model on indian legal documents for text summarization task.
  - Published the model on [Hugging Face](https://huggingface.co/akhilm97/pegasus_indian_legal)
+     ![](/videos/Streamlit_Demo_NLP.mp4)
 
 ### **[Project 2: Used Car Price Prediction](https://github.com/akhil97/Cloud-Computing-Project)**
  - Designed a Streamlit app to predict the price of used cars based on inputs provided by users like manufacturer name, engine type, and production year.
  - Employed AWS services like AWS Sagemaker for training XGBoost regression model and AWS EC2 instance for streamlit app.
- - Obtained R2 score of 90% for the XGBoost regression model.  
+ - Obtained R2 score of 90% for the XGBoost regression model.
+    ![](/videos/Streamlit_Demo_CC.mp4)
 
 ### **[Project 3: Automatic Ship Classification from Satellite Images](https://github.com/akhil97/Final-Project-Group2)**
  - Classified optical aerial images of ships to monitor unlawful activities in international waters.  
