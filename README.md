@@ -1,5 +1,4 @@
-# Akhil Bharadwaj Mateti
-Portfolio website
+# Technical Project Experience
 
 ### **[Project 1: AI Models for Legal Text Processing](https://github.com/akhil97/Final-Project-Group3)**
  - Used state-of-the-art transformer models fine-tuned on legal text data. We focused on key tasks such as text classification, text generation, and text summarization using BERT, GPT-2, and PEGASUS. 
