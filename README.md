@@ -16,12 +16,14 @@
 ### **[Project 3: Automatic Ship Classification from Satellite Images](https://github.com/akhil97/Final-Project-Group2)**
  - Classified optical aerial images of ships to monitor unlawful activities in international waters.  
  - Captured images in visible spectrum by employing transfer learning models on multi-class imbalanced dataset.
- - Achieved 78% F1 score using VGG16 pre-trained model.
+ - Achieved 77.5% F1 score using VGG16 pre-trained model.
+    ![](/images/dl_results.png)
 
 ### **[Project 4: Forest cover prediction](https://github.com/akhil97/Final-Project-Group7)**
  - Predicted forest cover type for use by agricultural industry to identify areas suitable for timber harvesting.
  - Employed Sklearn’s calibration APIs for finding best set of hyperparameters. 
  - Implemented XGBoost classifier and achieved 93% F1-score.
+    ![](/images/ml_results.png)
  
 
 ### **[Project 5: Heart disease prediction](https://github.com/akhil97/Data_Mining_project-T4-DATS6103)**
